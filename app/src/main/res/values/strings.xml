@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">Sahagún</string>
+    <string name="sahagun">es un municipio ubicado en el Departamento de Córdoba, Colombia, fundado en 1776 por Antonio de la Torre y Miranda,fue erigido como municipio en 1834.El clima es cálido y su temperatura promedio es 27 °C (80.6 °F), la ciudad se encuentra a 69 km de Montería.La ciudad es llamada la Ciudad Cultural de Córdoba.</string>
+    <string name="comida">Sahagún se identifica con el mote de queso. Alrededor de este municipio se conocen las sopas de queso y que es diferente a este tradicional mote. Se conoce el famoso Mongo de yuca(un dulce típico) y los caballitos (dulce de papaya).</string>
+    <string name="actividades">Lugares que puedes visitar, -Arenas Del Norte, -Bajo Grande, -Colomboy, -Bajo El Limón, -Santa Catalina </string>
+    <string name="alojamiento">Hostal Villa Juliana, Hotel Mansion</string>
+    <string name="opcion1">Acerda de</string>
+    <string name="opcion2">English</string>
+    <string name="opcion3">Spanish</string>
+
+
+    <string name="descripcion">Mi nombre es Juan Loaiza, tengo 19 años, actualmente estudiando una técnica de desarrollo de software,
+    en la universidad CESDE, cursando penúltimo semestre, apasionado la programación, actualmente trabajando en una empresa familiar como desarrollador. </string>
+
+</resources>

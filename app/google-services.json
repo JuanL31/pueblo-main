@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "863772331696",
+    "project_id": "pueblo-a27e0",
+    "storage_bucket": "pueblo-a27e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863772331696:android:e4de19cdc5dedc92faf575",
+        "android_client_info": {
+          "package_name": "com.example.pueblo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863772331696-palj9q9432887ggq51o66800e7pfdsuj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8qZzwVmHoxVhCfM6iBaWxHCukNDjZKxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863772331696-palj9q9432887ggq51o66800e7pfdsuj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

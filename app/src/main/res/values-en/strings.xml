@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sahagún</string>
+    <string name="sahagun">is a town and municipality in the Córdoba Department, Colombia, founded in 1776 by Antonio de la Torre y Miranda,
+        it was erected as a municipality in 1834.The climate is warm and its average temperature is 27 °C (80.6 °F), the city is located 69 km from Montería.
+        The city is called the Cultural City of Córdoba.</string>
+    <string name="comida">Sahagún is identified with the nickname of cheese. Around this municipality are known cheese soups and that is different from this traditional nickname.
+        It is known the famous Mongo de yucca (a typical sweet) and the caballitos (sweet papaya).</string>
+    <string name="actividades">Places you can visit, -Arenas Del Norte, -Bajo Grande, -Colomboy, -Bajo El Limón, -Santa Catalina </string>
+    <string name="alojamiento">Hostal Villa Juliana, Hotel Mansion</string>
+    <string name="opcion1">About us</string>
+    <string name="opcion2">English</string>
+    <string name="opcion3">Spanish</string>
+
+
+    <string name="descripcion">My name is Juan Loaiza, I am 19 years old, currently studying a software development technique,
+    at CESDE University, studying penultimate semester, passionate about programming, currently working in a family business as a developer. </string>
+
+</resources>
